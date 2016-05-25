@@ -1,0 +1,7 @@
+diff a/あいうえお b/あいうえお	(rejected hunks)
+@@ -1 +0,2 @@
+-あいうえお
+\ No newline at end of file
++あいうえお
++abc
+\ No newline at end of file
